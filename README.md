@@ -1,25 +1,25 @@
 # iputil
-Change IP of your laptop using this script
+Change IP of your laptop using this script<br/>
 
-1.Why to use this script?
--This python script is helpful to change IP address of your laptop 
-by just supplying command line argument to it.
--It saves time.
+1.Why to use this script?<br/>
+-This python script is helpful to change IP address of your laptop.<br/> 
+by just supplying command line argument to it.<br/>
+-It saves time.<br/>
 
-2.How to use it?
--As per your use you can use any one of below commands.
-python iputil.py home
-python iputil.py office
+2.How to use it?<br/>
+-As per your use you can use any one of below commands.<br/>
+python iputil.py home<br/>
+python iputil.py office<br/>
 
-3.Assumptions
--Your home router configured for dhcp
--Your office router has an
-ip=10.11.15.146
-subnetmask=255.255.255.0
-gateway=15.11.15.1
+3.Assumptions:<br/>
+-Your home router configured for dhcp<br/>
+-Your office router has an<br/>
+ip=10.11.15.146<br/>
+subnetmask=255.255.255.0<br/>
+gateway=15.11.15.1<br/>
 
-4.requirements
-python 3.x
-pip install wmi
-pip install pywin32
+4.Requirements:<br/>
+python 3.x<br/>
+pip install wmi<br/>
+pip install pywin32<br/>
 
