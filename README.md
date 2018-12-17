@@ -23,3 +23,9 @@ python 3.x<br/>
 pip install wmi<br/>
 pip install pywin32<br/>
 
+5.py2exe
+reference: https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263
+
+pip install pyinstaller
+pyinstaller --onefile iputil.py
+
