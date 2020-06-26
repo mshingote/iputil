@@ -5,7 +5,7 @@
 # Author:      Mayur Shingote
 #
 # Created:     16-12-2018
-# Copyright:   (c) Mayur Shingote 2018
+# Copyright:   (c) Mayur Shingote 2020
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
